@@ -31,9 +31,9 @@ UPDATE "dato" SET "usuario" WHERE (condición);
 
 [![Diagrama-DER.png](https://i.postimg.cc/FRnPPmrN/Diagrama-DER.png)](https://postimg.cc/qhyXRP65)
 
-####Repositorio.
+#### Repositorio.
 ````
 https://github.com/juandaboins/baseDatos
 
 ````
-###End
+### End
